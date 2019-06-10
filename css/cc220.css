@@ -170,6 +170,7 @@ select {
 
 .panel-md {
   flex: 2 0 200px;
+  display: none;
 }
 
 .panel-lg {
